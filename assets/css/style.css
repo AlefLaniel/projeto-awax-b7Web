@@ -1260,7 +1260,7 @@ CSS de Áreas Especificas
     }
 
     .button.premius{
-        margin-left: 40%;
+        margin-left: 30%;
     }
     
     .section-somes{
@@ -1274,6 +1274,18 @@ CSS de Áreas Especificas
 
     .section-some:first-child{
         border-left: 0;
+    }
+
+    .section-share{
+        flex-wrap: wrap;
+    }
+
+    .section-share--legend{
+        margin-right: 20px;
+    }
+
+    .section-share--item{
+        margin-right: 10px;
     }
 
     .section-map--area{
